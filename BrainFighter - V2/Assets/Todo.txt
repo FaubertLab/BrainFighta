@@ -1,0 +1,14 @@
+anim apparition/disparition
+
+compatibilite mac
+
+random muse start
+
+ajouter sons
+
+- fix same spawn reaparition
+- fix position nom
+
+seulement texture rouge pour blessures
+meilleure lecture output
+http://stackoverflow.com/questions/206323/how-to-execute-command-line-in-c-get-std-out-results
